@@ -1,0 +1,1 @@
+# This is my Certified Kubernetes Application Developer Notes
